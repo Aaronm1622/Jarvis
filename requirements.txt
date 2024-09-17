@@ -1,0 +1,9 @@
+openai
+requests
+schedule
+speechrecognition
+pyttsx3
+Flask
+python-dotenv
+google-api-python-client
+google-auth
